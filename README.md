@@ -1,0 +1,1 @@
+测试plugin + loader
